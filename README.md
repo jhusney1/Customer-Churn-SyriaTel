@@ -1,6 +1,6 @@
 # Module 2 Final Project: Customer Churn Syriatel
 
-![Churn-Pic](https://github.com/jhusney1/Customer-Churn-Project/blob/master/Reduce-Your-Customer-Churn-Rate.jpg)
+![Churn-Pic](https://github.com/jhusney1/Customer-Churn-Project/blob/master/churn-image.jpeg)
 
 ## Introduction
 
