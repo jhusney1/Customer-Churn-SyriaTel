@@ -1,6 +1,6 @@
 # Module 2 Final Project: Customer Churn Syriatel
 
-![Churn-Pic](https://github.com/jhusney1/Customer-Churn-Project/blob/master/churn-image.jpeg)
+![Churn-Pic](https://github.com/jhusney1/Customer-Churn-Project/blob/master/magnet%20customers.gif)
 
 ## Introduction
 
