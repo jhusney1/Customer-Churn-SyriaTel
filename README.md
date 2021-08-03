@@ -1,9 +1,11 @@
 <h1 align="center">Customer Churn For SyriaTel</h1>
 
 <p align="center">
-<img src="https://github.com/jhusney1/Customer-Churn-Project/blob/master/magnet%20customers.gif?style=flat">
 
 SyriaTel has decided to up their game in sales and they would like to determine which customers are most likely to stop using their service. We will be going through the dataset they have provided us to determine which customers have a good chance of leaving or staying with them. This information will help them encourage the 'flaky' customers to stay perhaps by providing extra incentives that will allow them to make the 'correct' decision. Please note that this is a binary classification problem and we will be using many different tools to assist us in our predictions.
+  
+<img src="https://github.com/jhusney1/Customer-Churn-Project/blob/master/magnet%20customers.gif?style=flat">
+
 <p>
 
 
